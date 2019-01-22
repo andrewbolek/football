@@ -1,0 +1,7 @@
+C:\Users\apbol\source\repos\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\apbol\source\repos\Football\Football\bin\Debug\Football.exe.config
+C:\Users\apbol\source\repos\Football\Football\bin\Debug\Football.exe
+C:\Users\apbol\source\repos\Football\Football\bin\Debug\Football.pdb
+C:\Users\apbol\source\repos\Football\Football\obj\Debug\Football.exe
+C:\Users\apbol\source\repos\Football\Football\obj\Debug\Football.pdb
+C:\Users\apbol\source\repos\Football\Football\obj\Debug\Football.csprojAssemblyReference.cache
